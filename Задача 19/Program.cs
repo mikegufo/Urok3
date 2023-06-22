@@ -1,3 +1,2 @@
-﻿int[] array = {System.Console.WriteLine("Введите суммуЖ")};
-
-
+﻿System.Console.WriteLine("Впишите номер: ");
+Array[index] = Convert.ToInt32(Console.RideLine());
